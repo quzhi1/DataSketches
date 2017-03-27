@@ -13,7 +13,7 @@ import java.io.FileOutputStream;
 /**
  * Created by zhiqu on 3/17/17.
  */
-public class Main {
+public class Main1 {
 
     public static void main(String[] args) throws Exception {
         writeItemToFile();
